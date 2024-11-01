@@ -1,0 +1,280 @@
+[
+  {
+    "id": "426df8b8-8c74-4d3f-99cc-6433ec6d27b8",
+    "eventName": "sample 2",
+    "startDate": "2025-01-04T14:36",
+    "frequency": "Daily",
+    "nextOccurrence": "2025-01-05T09:06:00.000Z",
+    "exclusions": [],
+    "customRule": null
+  },
+  {
+    "id": "eb90dad7-9b28-40f8-9380-c2e683a06a55",
+    "eventName": "sample 3",
+    "startDate": "2025-01-24T15:49",
+    "frequency": "Weekly",
+    "nextOccurrence": "2025-01-31T10:19:00.000Z",
+    "exclusions": [],
+    "customRule": null
+  },
+  {
+    "id": "d6222370-521d-4536-a9b4-85171c2bce3b",
+    "eventName": "sample4",
+    "startDate": "2025-01-16T14:50",
+    "frequency": "Weekly",
+    "nextOccurrence": "2025-01-23T09:20:00.000Z",
+    "exclusions": [],
+    "customRule": null
+  },
+  {
+    "id": "129070f6-97b0-479e-a9e2-2912441df0d7",
+    "eventName": "sample4",
+    "startDate": "2025-01-16T14:50",
+    "frequency": "Weekly",
+    "nextOccurrence": "2025-01-23T09:20:00.000Z",
+    "exclusions": [],
+    "customRule": null
+  },
+  {
+    "id": "2395e5f8-cf96-442c-a30d-f4fd96153997",
+    "eventName": "new event",
+    "startDate": "2024-10-04T14:56",
+    "frequency": "Weekly",
+    "nextOccurrence": "2024-10-11T09:26:00.000Z",
+    "exclusions": [],
+    "customRule": null
+  },
+  {
+    "id": "3b067654-3386-4428-8b76-a83a11c12265",
+    "eventName": "dddd",
+    "startDate": "2024-11-13T17:15",
+    "frequency": "Daily",
+    "nextOccurrence": "2024-11-14T11:45:00.000Z",
+    "exclusions": [],
+    "customRule": null
+  },
+  {
+    "id": "7fe1c618-2b56-4ae4-93b4-0f0f2eaac214",
+    "eventName": "sdfsss",
+    "startDate": "2024-11-01T10:11:07.594Z",
+    "frequency": "Daily",
+    "nextOccurrence": "2024-11-02T10:11:07.594Z",
+    "exclusions": [],
+    "customRule": null
+  },
+  {
+    "id": "cc93e4a9-4a0f-46d2-a660-3340d1b6260a",
+    "eventName": "assasasasa",
+    "startDate": "2024-11-01T10:13:36.292Z",
+    "frequency": "Weekly",
+    "nextOccurrence": "2024-11-08T10:13:36.292Z",
+    "exclusions": [],
+    "customRule": null
+  },
+  {
+    "id": "4db6f0a7-d5e4-40bb-9705-e0a2b1d2d2d4",
+    "eventName": "asdsd",
+    "startDate": "2024-11-06T10:18:19.000Z",
+    "frequency": "Weekly",
+    "nextOccurrence": "2024-11-13T10:18:19.000Z",
+    "exclusions": [],
+    "customRule": null
+  },
+  {
+    "id": "51e7af36-c800-44fa-aea1-8b44327a56f5",
+    "eventName": "test",
+    "startDate": "2024-11-01T10:20:40.928Z",
+    "frequency": "Monthly",
+    "nextOccurrence": "2024-12-01T10:20:40.928Z",
+    "exclusions": [],
+    "customRule": null
+  },
+  {
+    "id": "123e4567-e89b-12d3-a456-426614174000",
+    "eventName": "Sample Event",
+    "startDate": "2024-10-30T10:00:00Z",
+    "frequency": "daily",
+    "nextOccurrence": "2024-10-31T10:00:00Z",
+    "exclusions": [
+      "2024-11-01"
+    ],
+    "customRule": null
+  },
+  {
+    "id": "2d92ace3-6065-4da5-bf85-5fa2b6ba830a",
+    "eventName": "Team Meeting",
+    "startDate": "2024-11-10T09:00:00Z",
+    "frequency": "weekly",
+    "nextOccurrence": "2024-11-17T09:00:00.000Z",
+    "exclusions": [
+      "2024-11-24T09:00:00Z"
+    ],
+    "customRule": null
+  },
+  {
+    "id": "6023933a-9aff-4e6d-b5fe-fe2cc30712a9",
+    "eventName": "Project Update",
+    "startDate": "2024-11-11T09:00:00Z",
+    "frequency": "Daily",
+    "nextOccurrence": "2024-11-12T09:00:00.000Z",
+    "exclusions": [
+      "2024-11-24T09:00:00Z"
+    ],
+    "customRule": null
+  },
+  {
+    "id": "5554618a-28af-49c5-b55d-7e89c5cd156f",
+    "eventName": "statnd up call",
+    "startDate": "2024-11-18T09:00:00Z",
+    "frequency": "Daily",
+    "nextOccurrence": "2024-11-19T09:00:00.000Z",
+    "exclusions": [
+      "2024-11-24T09:00:00Z"
+    ],
+    "customRule": null
+  },
+  {
+    "id": "f13e7a06-9acb-4307-aa94-f053d67b3e89",
+    "eventName": "exclusion",
+    "startDate": "2024-11-01T10:25:32.771Z",
+    "frequency": "Daily",
+    "nextOccurrence": "2024-11-02T10:25:32.771Z",
+    "exclusions": [],
+    "customRule": null
+  },
+  {
+    "id": "7982e58b-1dfd-4df2-b07b-969e7c9a33b4",
+    "eventName": "xsdfg",
+    "startDate": "2024-11-01T10:26:22.817Z",
+    "frequency": "Monthly",
+    "nextOccurrence": "2024-12-01T10:26:22.817Z",
+    "exclusions": [],
+    "customRule": null
+  },
+  {
+    "id": "5b1849d8-78f5-4c23-855c-28fad7d7840f",
+    "eventName": "asdfgh",
+    "startDate": "2024-11-01T10:27:17.128Z",
+    "frequency": "Monthly",
+    "nextOccurrence": "2024-12-01T10:27:17.128Z",
+    "exclusions": [
+      "2024-11-04T18:30:00.000Z"
+    ],
+    "customRule": null
+  },
+  {
+    "id": "c28e1713-6a64-4a38-90d6-ca0eb168724a",
+    "eventName": "new event",
+    "startDate": "2024-11-01T10:43:48.914Z",
+    "frequency": "Daily",
+    "nextOccurrence": "2024-11-02T10:43:48.914Z",
+    "exclusions": [
+      "2024-11-10T18:30:00.000Z"
+    ],
+    "customRule": null
+  },
+  {
+    "id": "c77a2639-a786-48e5-8ce4-551b5fd8dd28",
+    "eventName": "jjjjjj",
+    "startDate": "2024-11-01T10:48:03.344Z",
+    "frequency": "Daily",
+    "nextOccurrence": "2024-11-02T10:48:03.344Z",
+    "exclusions": [
+      "2024-11-04T18:30:00.000Z",
+      "2024-11-05T18:30:00.000Z"
+    ],
+    "customRule": null
+  },
+  {
+    "id": "d5d71f66-3c01-48ae-a4b6-f516a7a99141",
+    "eventName": "sample 2sss",
+    "startDate": "2024-11-01T11:02:05.822Z",
+    "frequency": "Weekly",
+    "nextOccurrence": "2024-11-08T11:02:05.822Z",
+    "exclusions": [
+      "2024-11-04T18:30:00.000Z"
+    ],
+    "customRule": null
+  },
+  {
+    "id": "c134836b-7095-44cc-864b-c7317c4d2ddc",
+    "eventName": "new eventxx",
+    "startDate": "2024-11-01T11:07:19.896Z",
+    "frequency": "Daily",
+    "nextOccurrence": "2024-11-02T11:07:19.896Z",
+    "exclusions": [
+      "2024-11-04T18:30:00.000Z"
+    ],
+    "customRule": null
+  },
+  {
+    "id": "3af475d4-dd25-4c1a-b8a0-d0bd284acaf4",
+    "eventName": "new eventsxs",
+    "startDate": "2024-11-01T11:49:52.700Z",
+    "frequency": "Daily",
+    "nextOccurrence": "2024-11-02T11:49:52.700Z",
+    "exclusions": [
+      "2024-11-04T18:30:00.000Z"
+    ],
+    "customRule": null
+  },
+  {
+    "id": "64e36e4a-77a5-4bc1-a9bb-2f93caddefe1",
+    "eventName": "new eventsxs",
+    "startDate": "2024-11-01T11:49:52.700Z",
+    "frequency": "Daily",
+    "nextOccurrence": "2024-11-02T11:49:52.700Z",
+    "exclusions": [
+      "2024-11-04T18:30:00.000Z"
+    ],
+    "customRule": null
+  },
+  {
+    "id": "5d395a42-4e03-4442-a40e-96bc8cc29075",
+    "eventName": "new eventsxs",
+    "startDate": "2024-11-01T11:49:52.700Z",
+    "frequency": "Daily",
+    "nextOccurrence": "2024-11-02T11:49:52.700Z",
+    "exclusions": [
+      "2024-11-04T18:30:00.000Z",
+      "2024-11-03T18:30:00.000Z"
+    ],
+    "customRule": null
+  },
+  {
+    "id": "7aad7182-2a07-4194-936e-eb5671f88bf9",
+    "eventName": "new eventsxs",
+    "startDate": "2024-11-01T11:49:52.700Z",
+    "frequency": "Daily",
+    "nextOccurrence": "2024-11-02T11:49:52.700Z",
+    "exclusions": [
+      "2024-11-04T18:30:00.000Z",
+      "2024-11-03T18:30:00.000Z"
+    ],
+    "customRule": null
+  },
+  {
+    "id": "66c8a398-2621-426b-8513-670006d95728",
+    "eventName": "new eventsxs",
+    "startDate": "2024-11-01T11:49:52.700Z",
+    "frequency": "Daily",
+    "nextOccurrence": "2024-11-02T11:49:52.700Z",
+    "exclusions": [
+      "2024-11-04T18:30:00.000Z",
+      "2024-11-03T18:30:00.000Z"
+    ],
+    "customRule": null
+  },
+  {
+    "id": "37ac6bdd-1450-4dbf-b730-a290da9c8ebe",
+    "eventName": "sample 2aaa",
+    "startDate": "2024-11-01T11:55:09.371Z",
+    "frequency": "Daily",
+    "nextOccurrence": "2024-11-02T11:55:09.371Z",
+    "exclusions": [
+      "2024-11-05T18:30:00.000Z",
+      "2024-11-12T18:30:00.000Z"
+    ],
+    "customRule": null
+  }
+]
